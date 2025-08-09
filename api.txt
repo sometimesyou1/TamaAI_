@@ -1,0 +1,3 @@
+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
+
+export GROQ_API_KEY="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"
